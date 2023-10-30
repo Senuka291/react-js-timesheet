@@ -1,0 +1,55 @@
+#formContent {
+    background:white;
+    width:1000px;
+    height:inherit;
+    border: 8px solid rgb(123, 210, 172);
+    border-radius:70px;
+}
+input, label, textarea, select {
+    font-family: 'Trebuchet MS'; 
+}
+#text {
+    text-align:left;
+    position:relative;
+    left:50px;
+}
+#formBody {
+    background-color:teal;
+}
+.input {
+    padding:5px;
+    width:300px;
+}
+.addOns {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:normal;
+}
+.questionHeader {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:normal;
+}
+.questionHeader:after {
+    content:" *";
+    color: red;
+}
+.dropdown {
+    padding:9px;
+    font-size:15px;
+    width:300px;
+}
+option {
+    font-size:20px;
+}
+#submitBtn {
+    background:blue;
+    color:white;
+    padding:20px;
+    font-size:18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    outline:none;
+    border-radius:25px;
+}
+.question {
+    margin-top:45px;
+}
