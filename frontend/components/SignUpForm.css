@@ -1,0 +1,29 @@
+#signUpHeader {
+    font-size:60px;
+    font-family:"Century Gothic";
+    position:relative;
+    bottom:-30px;
+}
+.signInInput {
+    padding:30px;
+    width:500px;
+    font-size:26px;
+    font-family:"MS PGothic";
+    position:relative;
+    top:30px;
+}
+.signInInput:focus {
+    outline-color:blue;
+}
+#signInBtn {
+    background:blue;
+    padding:30px;
+    width:565px;
+    font-family:"Century Gothic";
+    border-radius:50px;
+    font-size:30px;
+    border:none;
+    outline:none;
+    position:relative;
+    top:50px;
+}
