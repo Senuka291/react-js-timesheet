@@ -8,8 +8,6 @@ class SignUpForm extends React.Component {
       username:"",
       password:""
     }
-    // this.changeUsername = this.changeUsername.bind(this);
-    // this.changePassword = this.changePassword.bind(this);
     this.onSubmit = this.onSubmit.bind(this);
   }
   onSubmit(event) {
