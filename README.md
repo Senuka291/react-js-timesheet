@@ -1,6 +1,6 @@
 # react-js-timesheet
 
-Web application to maintain grant, volunteer, and timesheet information for staff and volunteers.
+Web application to maintain grants, volunteers, and timesheet information for staff and volunteers.
 
 Full-stack web application with front end, database, and back end.
 
